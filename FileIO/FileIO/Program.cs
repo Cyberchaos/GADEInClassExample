@@ -9,6 +9,8 @@ using System.Runtime.Serialization;
 
 namespace FileIO
 {
+
+    //A BRANCH COMMENT
 	class Rogue
 	{
 		private int hp;
