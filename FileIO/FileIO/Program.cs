@@ -9,6 +9,8 @@ using System.Runtime.Serialization;
 
 namespace FileIO
 {
+
+    //Added this project to source control with GitHub! :)
 	class Rogue
 	{
 		private int hp;
